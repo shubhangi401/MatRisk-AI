@@ -40,3 +40,31 @@ Thumbs.db
 
 # Logs
 *.log
+Python environment
+
+.venv/
+venv/
+pycache/
+*.py[cod]
+
+IDE
+
+.vscode/
+
+OS
+
+.DS_Store
+Thumbs.db
+
+Logs
+
+*.log
+
+Sensitive files
+
+.env
+.env.*
+
+Raw datasets
+
+data/raw/provided/
